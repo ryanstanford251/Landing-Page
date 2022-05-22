@@ -38,3 +38,15 @@ h1 {
 header .container .header-content p {
     color: #e5e7eb;
 }
+
+.header-content{
+    flex: 1 1 0;
+    margin-right: 20px;
+}
+
+.header-image {
+    flex: 1 1 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
