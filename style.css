@@ -11,13 +11,13 @@
     color: white;
     display: flex;
     flex-direction: column;
-    padding: 1% 10% 5% 10%;
+    padding: 1% 10% 0 10%;
 }
 
 .container{
     display: flex;
     justify-content: space-between;
-    margin: 5% 0;
+    margin-bottom: 8%;
 }
 
 .container nav ul {
