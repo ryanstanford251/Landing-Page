@@ -50,4 +50,5 @@ header .container .header-content p {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(104, 104, 104);
 }
