@@ -52,3 +52,11 @@ header .container .header-content p {
     align-items: center;
     background-color: rgb(104, 104, 104);
 }
+
+.header-content button {
+    margin-top: 10px;
+    padding: 7px 23px;
+    background-color: rgb(57, 113, 244);
+    color: white;
+    border-radius: 10px;
+}
