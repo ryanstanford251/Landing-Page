@@ -60,3 +60,7 @@ header .container .header-content p {
     color: white;
     border-radius: 10px;
 }
+
+main {
+    margin: 50px 0;
+}
