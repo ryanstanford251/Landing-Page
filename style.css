@@ -95,4 +95,5 @@ main h2 {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
+    padding: 10% 20%;
 }
