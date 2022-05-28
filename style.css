@@ -90,3 +90,7 @@ main h2 {
 .main-image-subtext {
     color: gray;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
