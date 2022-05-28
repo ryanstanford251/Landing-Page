@@ -97,3 +97,9 @@ main h2 {
     flex-direction: column;
     padding: 10% 20%;
 }
+
+.quote blockquote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
