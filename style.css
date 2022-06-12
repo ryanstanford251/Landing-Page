@@ -28,11 +28,11 @@
     padding-bottom: 8%;
 }
 
-.container nav ul {
+.header--links {
     display: flex;
 }
 
-.container nav ul li {
+.header--link {
     list-style: none;
     margin: 0 10px;
     color: lightgray;
