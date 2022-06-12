@@ -23,6 +23,11 @@
     padding: 1% 12% 5% 12%;
 }
 
+.header--container {
+    justify-content: space-between;
+    padding-bottom: 8%;
+}
+
 .container nav ul {
     display: flex;
 }
