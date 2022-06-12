@@ -1,3 +1,5 @@
+/*General*/
+
 *  {
     box-sizing: border-box;
     margin: 0px;
@@ -6,18 +8,20 @@
     font-size: 18px;
 }
 
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8%;
+}
+
+/*Header*/
+
 .header {
     background-color: #1F2937;
     color: white;
     display: flex;
     flex-direction: column;
     padding: 1% 12% 0 12%;
-}
-
-.container{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 8%;
 }
 
 .container nav ul {
@@ -61,6 +65,8 @@ header .container .header-content p {
     border-radius: 10px;
 }
 
+/*Main*/
+
 main {
     margin: 50px 0;
     display: flex;
@@ -91,6 +97,8 @@ main h2 {
     color: gray;
 }
 
+/*Quote Section*/
+
 .quote {
     background-color: #e5e7eb;
     display: flex;
@@ -110,3 +118,6 @@ main h2 {
     font-size: 26px;
     font-weight: bold;
 }
+
+/*Sign-up Section*/
+
