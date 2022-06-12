@@ -20,7 +20,7 @@
     color: white;
     display: flex;
     flex-direction: column;
-    padding: 1% 12% 0 12%;
+    padding: 1% 12% 5% 12%;
 }
 
 .container nav ul {
