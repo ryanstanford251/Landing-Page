@@ -71,20 +71,20 @@
 
 /*Main*/
 
-main {
+.main {
     margin: 50px 0;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-main h2 {
+.main--heading {
     font-size: 36px;
     font-weight: bold;
     color: #1F2937;
 }
 
-.main-content {
+.main--content {
     width: 160px;
     text-align: center;
     margin: 40px 20px 10px 20px;
@@ -97,7 +97,7 @@ main h2 {
     border-radius: 10px;    
 }
 
-.main-image-subtext {
+.main-image--subtext {
     color: gray;
 }
 
