@@ -142,3 +142,7 @@
 .sign-up--container {
     flex-direction: column;
 }
+
+.sign-up--section--button {
+    border: 2px solid white;
+}
