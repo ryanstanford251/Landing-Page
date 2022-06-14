@@ -107,7 +107,7 @@
 
 /*Quote Section*/
 
-.quote {
+.quote--section {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
@@ -115,13 +115,13 @@
     color: #1F2937;
 }
 
-.quote blockquote {
+.quote {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
 }
 
-.quote cite {
+.quote--reference {
     align-self: flex-end;
     font-size: 26px;
     font-weight: bold;
