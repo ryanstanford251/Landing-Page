@@ -78,6 +78,10 @@
     align-items: center;
 }
 
+.main--container {
+    margin-bottom: 4%;
+}
+
 .main--heading {
     font-size: 36px;
     font-weight: bold;
