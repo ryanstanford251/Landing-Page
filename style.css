@@ -129,3 +129,14 @@
 
 /*Sign-up Section*/
 
+.sign-up--section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    margin: 8%;
+    padding: 4%;
+}
+
+.sign-up--container {
+    flex-direction: column;
+}
